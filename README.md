@@ -18,3 +18,10 @@ To collect the dataset, we use OpenCV to capture face images from a webcam and s
 
 The collected dataset is used to train a CNN model to recognize ASL gestures. The model is trained on the images saved during the data collection phase.
 
+# Real-time Prediction
+
+The trained face recognition model is used to predict identities in real-time. The webcam captures the face images, and the model predicts the corresponding individual's identity for attendance tracking.
+
+# Contributing 
+
+Contributions are welcome! Please feel free to fork the repository and submit pull requests.
